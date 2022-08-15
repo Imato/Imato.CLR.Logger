@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>Imato.CLR.Logger</id>
+		<version>1.0.0</version>
+		<authors>Alexey Varentsov (@imato)</authors>
+		<owners>Alexey Varentsov (@imato)</owners>
+		<license type="expression">MIT</license>
+		<projectUrl>https://github.com/Imato/Imato.CLR.Logger</projectUrl>
+		<icon>.\icon.png</icon>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>Use output log messages in MS SQL CLR procedures</description>
+		<releaseNotes></releaseNotes>
+		<copyright>imato 20222</copyright>
+		<tags>MSSQL CLR Log</tags>
+	</metadata>
+	<files>
+		<file src="icon.png" target="\" />
+	</files>
+</package>

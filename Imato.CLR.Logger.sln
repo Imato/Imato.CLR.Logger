@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imato.CLR.Logger", "Imato.CLR.Logger\Imato.CLR.Logger.csproj", "{80976170-7B5B-4928-B731-F497FA8CCBEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F3FAAE80-89FD-4091-8C66-032737D971C6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80976170-7B5B-4928-B731-F497FA8CCBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80976170-7B5B-4928-B731-F497FA8CCBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80976170-7B5B-4928-B731-F497FA8CCBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80976170-7B5B-4928-B731-F497FA8CCBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A70A23-2563-4FB1-BBDF-390B52D2A9AA}
+	EndGlobalSection
+EndGlobal
